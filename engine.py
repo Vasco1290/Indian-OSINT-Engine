@@ -1,7 +1,3 @@
-"""
-Indian OSINT Account Presence Engine (FIXED)
-Demo-ready | Multithreaded | Flask + Streamlit
-"""
 
 import requests
 import threading
